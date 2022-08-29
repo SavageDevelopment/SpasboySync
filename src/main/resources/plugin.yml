@@ -1,0 +1,7 @@
+name: SpasboySync
+main: ml.savdev.spasboysync.SpasboySync
+version: 1.0.0-DEV
+author: support@savdev.ml
+commands:
+  link:
+    usage: /link

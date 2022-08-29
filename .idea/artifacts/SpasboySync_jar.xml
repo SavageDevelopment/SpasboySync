@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpasboySync:jar">
+    <output-path>$USER_HOME$/Desktop/EraEssentialsBuilds</output-path>
+    <root id="archive" name="SpasboySync.jar">
+      <element id="module-output" name="SpasboySync" />
+    </root>
+  </artifact>
+</component>
